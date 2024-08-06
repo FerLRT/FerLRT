@@ -59,6 +59,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=FerLRT&show_icons=true&theme=dark&line_height=27" alt="Fernando's Github Stats" width="80%">
 
 <br>
+<br>
   
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerLRT&theme=dark&hide_langs_below=1" width="50%" alt="Fernando's Top Languages">
 </div>
@@ -70,7 +71,3 @@
 </div>
 
 <img src="./assets/wave.svg" />
-
-[twitter]: https://twitter.com/sumanth_98?s=09
-[instagram]: https://instagram.com/the.cs.geek?igshid=1mamru7aa53b2
-[linkedin]: https://www.linkedin.com/in/tv-sai-sumanth-3b7811141/
